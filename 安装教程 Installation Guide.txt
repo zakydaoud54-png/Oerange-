@@ -1,0 +1,53 @@
+
+测试的时候用的是linux系统  win系统没试过  其他环境自己测试
+
+nginx+php5.6（fileinfo，opcache，redis）+mysql5.6
+
+php函数全删
+
+上传源码  设置伪静态thinkPHP  
+
+配置数据库：根目录/index.php
+
+这样就搭建好了
+
+
+后台地址：域名/admin    
+
+账号：admin
+
+密码：123456
+
+shell脚本：
+
+结算 1分钟
+cd/www/wwwroot/域名&&php think settlement
+
+访问URL：
+
+autoxjtade  1分钟
+http://域名/home/autoexe/autoxjtade
+
+releaseissue  每天0小时1分钟
+https://域名/home/autoexe/releaseissue
+
+releasedjprofit   每天0小时3分钟
+https://域名/home/autoexe/releasedjprofit
+
+authsharesjsy   每天0小时6分钟
+https://域名/home/autoexe/authsharesjsy
+
+autokjsy   每天0小时8分钟
+https://域名/home/autoexe/autokjsy
+
+setwl_ty    1分钟
+https://域名/home/autoexe/setwl_ty
+
+setwl    1分钟
+https://域名/home/autoexe/setwl
+
+hycarryout_ty   5分钟
+https://域名/home/autoexe/hycarryout_ty
+
+hycarryout    3分钟
+https://域名/home/autoexe/hycarryout

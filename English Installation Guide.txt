@@ -1,0 +1,59 @@
+During the test, I used the linux system. I haven’t tried the win system. I tested it myself in other environments.
+
+Required :-
+ 
+1. VPS Hosting
+2. Need CentOS or Ubuntu
+3. Minimum 2 Core Ram But Max 4 Core Best
+4. Best Hostinger Hosting or Cyberin or Namecheap
+
+nginx+php5.6 (fileinfo, opcache, redis)+mysql5.6
+
+Delete all php functions
+
+Upload source code Set pseudo-static thinkPHP
+
+Configuration database: root directory/index.php
+
+That's it.
+
+
+Background address: domain name/admin
+
+Account: admin
+
+Password: 123456
+
+shell script:
+
+Checkout 1 minute
+cd /www/wwwroot/domain name&&php think settlement
+
+Visit the URL:
+
+autoxjtade 1 minute
+http://domain name/home/autoexe/autoxjtade
+
+releaseissue 0 hours 1 minute per day
+https://domain name/home/autoexe/releaseissue
+
+releasedjprofit 0 hours 3 minutes per day
+https://domain name/home/autoexe/releasedjprofit
+
+authsharesjsy 0 hours 6 minutes per day
+https://domain name/home/autoexe/authsharesjsy
+
+autokjsy 0 hours 8 minutes per day
+https://domain name/home/autoexe/autokjsy
+
+setwl_ty 1 minute
+https://domain name/home/autoexe/setwl_ty
+
+setwl 1 minute
+https://domain name/home/autoexe/setwl
+
+hycarryout_ty 5 minutes
+https://domain name/home/autoexe/hycarryout_ty
+
+Hycarryout 3 minutes
+https://domain name/home/autoexe/hycarryout
